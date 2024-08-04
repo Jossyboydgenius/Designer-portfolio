@@ -1,2 +1,2 @@
-# Developer-portfolio-website
-A developer portfolio website.
+# Designer-portfolio-website
+A designer portfolio website.
